@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 & Fluidmotion TV Kinetic Email Studio",
+  "description": "High-impact kinetic HTML email generator for Dragon 9 and Fluidmotion TV promotional and sales campaigns with interactive animations and responsive styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
